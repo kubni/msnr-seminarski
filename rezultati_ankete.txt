@@ -1,0 +1,64 @@
+* Opšte informacije o ispitanicima
+   + Ukupno odgovora: 60
+
+   + Pol: 50/50
+
+   + Stepen studija: Osnovne studije (56%), Master studije (41.7%), Doktorske studije (1 osoba)
+
+   + Studijski program: Informatika (61.7%), Matematika (38.3%), Astronomija i Astrofizika (0%)
+
+   + Dužina studiranja:
+        - 1: 10 osoba (16.7%)
+        - 2: 2 osobe (3.3%)
+        - 3: 4 osobe (6.7%)
+        - 4: 8 osoba (13.3%)
+        - 5: 15 osoba (25%)
+        - 6: 19 osoba (31.7%)
+        - 7: 1 osoba (1.7%)
+        - 8: 0 osoba (0.0%)
+        - 9: 1 osoba (1.7%)
+
+    + Prosek na dosadašnjim studijama:
+        - 6.00-6.99:  2 osobe (3.3%)
+        - 7.00-7.99:  31 osoba (51.7%)
+        - 8.00-8.99:  15 osoba (25%)
+        - 9.00-10.00: 8 osoba (13.3%)
+        - Ne želim da se izjasnim: 4 osobe (6.7%)
+
+    + Zaposlenost:
+        - Da: 17 osoba (28.3%)
+        - Ne: 43 osobe (71.7%)
+
+
+   // Ovo mogu da budu i kopirani ovi grafikoni mozda
+
+   + Zaključak na osnovu opštih informacija: Većina odgovora je od strane nezaposlenih studenata sa osnovnih studija (studijski program Informatika), podjednako raspodeljenih izmedju muškaraca i žena.
+
+
+
+
+* Organizacija kursa
+  + U tekstu će biti korišćeni sledeći termini u zavisnosti od toga na osnovu kojih ocena su donešeni zaključci:
+        - U potpunosti slaže // ne slaže :: 5 // 1'
+        - Slaže // ne slaže :: (4 + 5) // (1 + 2)
+        - Niti slaže niti ne slaže  (ili možda neodlučni) :: 3
+
+            //////// TODO: Ovo iznad je možda nepotrebno, ili ga treba preformulisati... Dodao sam ga da ne bih pisao dole u sred analize da "slaze se" (oznacava zbirnu kolicinu ocena 4 i 5)
+
+  + Što se tiče pitanja u kojima je mala raznolikost odgovora, u korist slaganja sa pitanjem da li navedene situacije otežavaju kurs:
+        - Preko 80% ispitanika se slaže da "nedostupnost kvalitetnog materijala", "nepovezanost gradiva između predavanja i vežbi" i "prezahtevno ocenjivanje" značajno otežavaju kurs, što je takođe očekivano.
+        - Dve trećine ispitanika se slaže da "nedostatak interakcije predavača sa studentima" otežava kurs.
+          Veoma slične rezultate uočavamo i kod "nezainteresovanosti za temu koja se obrađuje na kursu".
+
+
+            //////// TODO: Dodati nenadoknadive kolokvijume
+
+
+  + S druge strane, interesantno je da ne postoji ponuđena situacija za koju je ogromna većina ispitanika rekla da im ne otežava kurs.
+    Najbliže tome je došlo "postojanje obaveznik predispitnih obaveza", za šta se tačno pola ispitanika ne slaže da im otežava kurs, pri čemu od preostalih imamo 20% koji se niti slažu niti ne slažu, i 30% koji se slažu da im to otežava kurs.
+
+
+  + Najinteresantnije, tj. najraznovrsnije odgovore imamo na pitanja da li "online nastava", "obavezan rad u grupi", "postojanje usmene provere znanja naspram pismene provere znanja" otežavaju kurs.
+        - Što se tiče online nastave i obaveznog rada u grupi, kada gledamo pojedinačne ocene na skali, najviše ljudi se niti slaže niti ne slaže, međutim većinski se ljudi zapravo ne slažu (ocene 1 i 2) da im ove stvari otežavaju kurs.
+
+        - Kada je u pitanju postojanje usmene naspram pismene provere znanja, ne postoji ocena koja ima manje od 10% udela, ali se ipak većina (55%) ispitanika slaže da to otežava kurs.
