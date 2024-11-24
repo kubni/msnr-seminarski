@@ -37,9 +37,9 @@
 
 **** Organizacija kursa ****
   + U tekstu će biti korišćeni sledeći termini u zavisnosti od toga na osnovu kojih ocena su donešeni zaključci:
-        - U potpunosti slaže // ne slaže :: 5 // 1'
+        - U potpunosti slaže // ne slaže :: 5 // 1
         - Slaže // ne slaže :: (4 + 5) // (1 + 2)
-        - Niti slaže niti ne slaže  (ili možda neodlučni) :: 3
+        - Niti slaže niti ne slaže :: 3
 
             //////// TODO: Ovo iznad je verovatno nepotrebno, ili ga treba preformulisati... Dodao sam ga da ne bih pisao dole u sred analize da "slaze se" oznacava zbirnu kolicinu ocena 4 i 5
 
@@ -107,20 +107,18 @@
         - Obimnost samog kursa, kao i veliki broj ispitnih obaveza.
 
         5) Geometrija 2: 2
-        - Lična nezainteresovanost za materiju
         - Zato što je kurs koji je ranije trajao 2 semestra sada sažet ali ne dovoljno da bi postao jednosemestralni predmet. Ima 9 oblasti, gradivo je obimno, zahtevno i poprilično dosadno. Svetla tačka ovog kursa je jedino profesorka koja dopušta polaganje usmenog u delovima. Pismeni je jako težak jer se ne javljaju uvek ideje koje su viđene već je uglavnom akcenat na nečemu novom što jeste u redu ali za veće ocene, ne za 6.
 
         6) Operativni sistemi: 2
-        - Teorijski deo zahteva jednaku posvecenost na obimu skoro celog gradiva kursa, sto u kombinaciji sa pripremom jos nekih, pored ovog predmeta za neki ispitni rok, znatno otezava stvar
-        - Zbog tezine i kolicine gradiva
+            - Teorijski deo zahteva jednaku posvecenost na obimu skoro celog gradiva kursa, sto u kombinaciji sa pripremom jos nekih, pored ovog predmeta za neki ispitni rok, znatno otezava stvar
+            - Zbog tezine i kolicine gradiva
 
         7) Analiza 3: 1
-        - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
 
         8) Funkcionalna analiza: 1
 
         9) Teorija mere i integracije: 1
-        - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
+           - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
 
         10) KIAA: 1
             - Obimno gradivo, zahtevno ocenjivanje, zahtev za dokazima teorema
@@ -129,7 +127,6 @@
             - Obimno gradivo, zahtevno ocenjivanje, pismeni i usmeni ispiti su kao 2 odvojena ispita (nekad), zahtev za dokazima teorema
 
         12) Geometrija 3: 1
-        - Lična nezainteresovanost za materiju
 
         13) Razvoj softvera 2: 1
             - Profesor odlicno predaje, ali uglavnom na predavanjima ne pokrije celo gradivo koje ce doci na ispitu, a ne postoji adekvatna literatura iz koje bi student mogao samostalno da se pripremi.
@@ -152,7 +149,7 @@
 
 
 ////// NOTE: Ove stvari iznad ne treba da se citaju sve logicno, samo da se ulepsaju u LateX-u pa nek stoje dok mi ispricamo neke najzanimljivije odgovore
-////// Nisam stavljao sve predloge za poboljsanje kursa kao sto sam originalno planirao jer stvanro postaje previse teksta
+////// Nisam stavljao sve predloge za poboljsanje kursa kao sto sam originalno planirao jer stvarno postaje previse teksta
 
 
     + Zaključak za sekciju Lični utisak:
@@ -161,3 +158,9 @@
           a nakon toga sledi smanjenje obima gradiva.
         - Neki ispitanici vide rešenje u promeni profesora: na Verovatnoći (3) i na RBP (1)
         - Naveden je i nedostatak rešenih rokova ispita od strane asistenata, kao i nedovoljno povratnih informacija od strane profesora kao otežavajuće okolnosti na kursevima.
+
+
+
+
+
+**** Zanimljivosti ****
