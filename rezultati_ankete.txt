@@ -1,4 +1,4 @@
-* Opšte informacije o ispitanicima
+**** Opšte informacije o ispitanicima ****
    + Ukupno odgovora: 60
 
    + Pol: 50/50
@@ -30,35 +30,124 @@
         - Ne: 43 osobe (71.7%)
 
 
-   // Ovo mogu da budu i kopirani ovi grafikoni mozda
-
    + Zaključak na osnovu opštih informacija: Većina odgovora je od strane nezaposlenih studenata sa osnovnih studija (studijski program Informatika), podjednako raspodeljenih izmedju muškaraca i žena.
+    // TODO: Promeniti
 
 
 
-
-* Organizacija kursa
+**** Organizacija kursa ****
   + U tekstu će biti korišćeni sledeći termini u zavisnosti od toga na osnovu kojih ocena su donešeni zaključci:
         - U potpunosti slaže // ne slaže :: 5 // 1'
         - Slaže // ne slaže :: (4 + 5) // (1 + 2)
         - Niti slaže niti ne slaže  (ili možda neodlučni) :: 3
 
-            //////// TODO: Ovo iznad je možda nepotrebno, ili ga treba preformulisati... Dodao sam ga da ne bih pisao dole u sred analize da "slaze se" (oznacava zbirnu kolicinu ocena 4 i 5)
+            //////// TODO: Ovo iznad je verovatno nepotrebno, ili ga treba preformulisati... Dodao sam ga da ne bih pisao dole u sred analize da "slaze se" oznacava zbirnu kolicinu ocena 4 i 5
 
   + Što se tiče pitanja u kojima je mala raznolikost odgovora, u korist slaganja sa pitanjem da li navedene situacije otežavaju kurs:
         - Preko 80% ispitanika se slaže da "nedostupnost kvalitetnog materijala", "nepovezanost gradiva između predavanja i vežbi" i "prezahtevno ocenjivanje" značajno otežavaju kurs, što je takođe očekivano.
         - Dve trećine ispitanika se slaže da "nedostatak interakcije predavača sa studentima" otežava kurs.
-          Veoma slične rezultate uočavamo i kod "nezainteresovanosti za temu koja se obrađuje na kursu".
-
-
-            //////// TODO: Dodati nenadoknadive kolokvijume
-
+          Veoma slične rezultate uočavamo i kod "nezainteresovanosti za temu koja se obrađuje na kursu", kao i kod "postojanja nenadoknadivih kolokvijuma".
 
   + S druge strane, interesantno je da ne postoji ponuđena situacija za koju je ogromna većina ispitanika rekla da im ne otežava kurs.
-    Najbliže tome je došlo "postojanje obaveznik predispitnih obaveza", za šta se tačno pola ispitanika ne slaže da im otežava kurs, pri čemu od preostalih imamo 20% koji se niti slažu niti ne slažu, i 30% koji se slažu da im to otežava kurs.
+    Najbliže tome je "postojanje obaveznih predispitnih obaveza", za šta se tačno pola ispitanika ne slaže da im otežava kurs, pri čemu od preostalih imamo 20% koji se niti slažu niti ne slažu, i 30% koji se slažu da im to otežava kurs.
 
 
-  + Najinteresantnije, tj. najraznovrsnije odgovore imamo na pitanja da li "online nastava", "obavezan rad u grupi", "postojanje usmene provere znanja naspram pismene provere znanja" otežavaju kurs.
+  + Najraznovrsnije odgovore imamo na pitanja da li "online nastava", "obavezan rad u grupi", "postojanje usmene provere znanja naspram pismene provere znanja" otežavaju kurs.
         - Što se tiče online nastave i obaveznog rada u grupi, kada gledamo pojedinačne ocene na skali, najviše ljudi se niti slaže niti ne slaže, međutim većinski se ljudi zapravo ne slažu (ocene 1 i 2) da im ove stvari otežavaju kurs.
 
-        - Kada je u pitanju postojanje usmene naspram pismene provere znanja, ne postoji ocena koja ima manje od 10% udela, ali se ipak većina (55%) ispitanika slaže da to otežava kurs.
+        - Kada je u pitanju "postojanje usmene naspram pismene provere znanja", ne postoji ocena koja ima manje od 10% udela, ali se ipak većina (55%) ispitanika slaže da to otežava kurs.
+
+
+
+///////// TODO: Promeniti procente iznad zbog dodatnog odgovora ///////////
+
+
+**** Lično iskustvo ****
+
++ Što se tiče toga koja vrsta kursa je ispitanicima teža, velikoj većini (77%) su teži matematički kursevi,
+  pri čemu je teorijski deo ispita većini (68.9%) najteži.
+
+        // TODO: Pogledati statistiku u odnosu na to da li je teži praktični ili teorijski u zavisnosti od toga da li su stavljeni matematički ili informatički predmeti u prošlom pitanju.
+
++ Više studenata misli da seminarski radovi (18%) otežavaju kurs nego što to čine projekti (16.4%).
+
+
++ Na pitanje "Koji je po vama najteži kurs na studijama" imamo sledeću situaciju, zajedno sa komentarima obrazloženja:
+
+    1) Verovatnoća: 10
+       - Profesor je  lud
+       - Usmeni ispit je nekorektno organizovan
+       - Velik obim veoma kompleksne i isprepletane tematike.
+       - Ocekuje se jako visok nivo teorijskog znanja, a nacin na koji se ono ispituje ponekad nije ocigledan ni studentu koji to znanje poseduje.
+       - Previše je zahtevan
+       - Pretežak usmeni ispit za studente koji su na smeru Informatika, kao da smo na smo na smeru za verovatnoću
+       - Prakticni ispit je dosta nepredvidiv, a teorija je obimna za ucenje.
+       - Profesor nije dobar predavač ali traži od studenata razumevanje i poznavanje celokupnog gradiva
+       -
+
+    2) Analiza 1: 9
+       - Težak kurs za početnike, teško je da se čovek adaptira na nove definicije, i dokaze da nauči kako se uči ta teorija iz matematike.
+       - Obim
+       - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
+       - Pretesko gradivo za sam pocetak studiranja
+
+    3) Analiza 2: 8
+       - Velika količina gradiva koje je potrebno savladati i nedovoljno jasne literature
+       - Pored analize 1, neophodno je znanje iz linearne algebre i analitičke geometrije.
+       - Obiman kurs, vezbe koje ne prate trzinu ispita,  neadekvatno ispredavana teorija koja se koristi u nastavku studija
+       - Preobiman je i lose se predaje
+       - Tezina gradiva i broj poena koji nosi
+       - Nedovoljno materijala, loš kvalitet vežbi...
+       - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
+       - Preobiman predmet, zadaci na pismenom preopsirni, premqlo vrmena na pismebom ispitu, brutalno ocenjivanje
+       -
+
+    *) Analize 1 i 2: 2
+       - Jer su dvosemestralni i iako postoje kolokvijumi koji zamenjuju pismeni deo, svako ima najviše po tri puta pravo da izađe na njih, što je manje od bilo kog drugog jednosemestralnog ispita
+       - Nepostojanje standarda pri izradi različitih rokova, nepostojanje materijala za pismeni deo (rešenih rokova, zbirka rešenih zadataka itd), nepostojanje standardnih materijala za teorijski deo (usmeni) , nezainteresovani i loši predavači (sa par izuzetaka) , loši asistenti (sa još manje izuzetaka) itd.
+
+    4) Razvoj softvera: 3
+       - Obimnost samog kursa, kao i veliki broj ispitnih obaveza.
+
+    5) Geometrija 2: 2
+       - Lična nezainteresovanost za materiju
+       - Zato što je kurs koji je ranije trajao 2 semestra sada sažet ali ne dovoljno da bi postao jednosemestralni predmet. Ima 9 oblasti, gradivo je obimno, zahtevno i poprilično dosadno. Svetla tačka ovog kursa je jedino profesorka koja dopušta polaganje usmenog u delovima. Pismeni je jako težak jer se ne javljaju uvek ideje koje su viđene već je uglavnom akcenat na nečemu novom što jeste u redu ali za veće ocene, ne za 6.
+
+    6) Operativni sistemi: 2
+       - Teorijski deo zahteva jednaku posvecenost na obimu skoro celog gradiva kursa, sto u kombinaciji sa pripremom jos nekih, pored ovog predmeta za neki ispitni rok, znatno otezava stvar
+       - Zbog tezine i kolicine gradiva
+
+    7) Analiza 3: 1
+       - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
+
+    8) Funkcionalna analiza: 1
+
+    9) Teorija mere i integracije: 1
+       - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
+
+    10) KIAA: 1
+        - Obimno gradivo, zahtevno ocenjivanje, zahtev za dokazima teorema
+
+    11) ORS (Osnovi racunarskih sistema): 1
+        - Obimno gradivo, zahtevno ocenjivanje, pismeni i usmeni ispiti su kao 2 odvojena ispita (nekad), zahtev za dokazima teorema
+
+    12) Geometrija 3: 1
+       - Lična nezainteresovanost za materiju
+
+    13) Razvoj softvera 2: 1
+        - Profesor odlicno predaje, ali uglavnom na predavanjima ne pokrije celo gradivo koje ce doci na ispitu, a ne postoji adekvatna literatura iz koje bi student mogao samostalno da se pripremi.
+
+    14) Algoritmi i strukture podataka: 1
+        - Pretežak praktični ispit
+
+    15) RBP: 1
+        - nenad mitic
+
+    16) Algebra 1: 1
+
+    17) Verovatnoća i statistika A: 2
+        - Verovatnoca i statistika A. Vucem je pet godina a analizu 1 i 2 sam dao za ukupno cetri. Prodmet je prosto lutrija.
+        - Odnos tezine zadataka na vezbama i rokovima, i sto se cesto na usmenom ispitu ocekuje besprekorno znanje bez obzira na ocenu
+
+    18) Verovatnoća i statistika B: 1
+        -  Za VIS odnos tezine zadataka na vezbama i rokovima, i sto se cesto na usmenom ispitu ocekuje besprekorno znanje bez obzira na ocenu
