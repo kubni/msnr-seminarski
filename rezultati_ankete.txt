@@ -64,90 +64,100 @@
 
 **** Lično iskustvo ****
 
-+ Što se tiče toga koja vrsta kursa je ispitanicima teža, velikoj većini (77%) su teži matematički kursevi,
-  pri čemu je teorijski deo ispita većini (68.9%) najteži.
+    + Što se tiče toga koja vrsta kursa je ispitanicima teža, velikoj većini (77%) su teži matematički kursevi,
+    pri čemu je teorijski deo ispita većini (68.9%) najteži.
 
-        // TODO: Pogledati statistiku u odnosu na to da li je teži praktični ili teorijski u zavisnosti od toga da li su stavljeni matematički ili informatički predmeti u prošlom pitanju.
+            // TODO: Pogledati statistiku u odnosu na to da li je teži praktični ili teorijski u zavisnosti od toga da li su stavljeni matematički ili informatički predmeti u prošlom pitanju.
 
-+ Više studenata misli da seminarski radovi (18%) otežavaju kurs nego što to čine projekti (16.4%).
+    + Više studenata misli da seminarski radovi (18%) otežavaju kurs nego što to čine projekti (16.4%).
 
 
-+ Na pitanje "Koji je po vama najteži kurs na studijama" imamo sledeću situaciju, zajedno sa komentarima obrazloženja:
-
+    + Na pitanje "Koji je po vama najteži kurs na studijama" imamo sledeću situaciju, zajedno sa komentarima obrazloženja.
     1) Verovatnoća: 10
-       - Profesor je  lud
-       - Usmeni ispit je nekorektno organizovan
-       - Velik obim veoma kompleksne i isprepletane tematike.
-       - Ocekuje se jako visok nivo teorijskog znanja, a nacin na koji se ono ispituje ponekad nije ocigledan ni studentu koji to znanje poseduje.
-       - Previše je zahtevan
-       - Pretežak usmeni ispit za studente koji su na smeru Informatika, kao da smo na smo na smeru za verovatnoću
-       - Prakticni ispit je dosta nepredvidiv, a teorija je obimna za ucenje.
-       - Profesor nije dobar predavač ali traži od studenata razumevanje i poznavanje celokupnog gradiva
-       -
+        - Profesor je  lud
+        - Usmeni ispit je nekorektno organizovan
+        - Velik obim veoma kompleksne i isprepletane tematike.
+        - Ocekuje se jako visok nivo teorijskog znanja, a nacin na koji se ono ispituje ponekad nije ocigledan ni studentu koji to znanje poseduje.
+        - Previše je zahtevan
+        - Pretežak usmeni ispit za studente koji su na smeru Informatika, kao da smo na smo na smeru za verovatnoću
+        - Prakticni ispit je dosta nepredvidiv, a teorija je obimna za ucenje.
+        - Profesor nije dobar predavač ali traži od studenata razumevanje i poznavanje celokupnog gradiva
 
-    2) Analiza 1: 9
-       - Težak kurs za početnike, teško je da se čovek adaptira na nove definicije, i dokaze da nauči kako se uči ta teorija iz matematike.
-       - Obim
-       - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
-       - Pretesko gradivo za sam pocetak studiranja
+        2) Analiza 1: 9
+        - Težak kurs za početnike, teško je da se čovek adaptira na nove definicije, i dokaze da nauči kako se uči ta teorija iz matematike. -> "Povećati broj dostupnih materijala, odraditi veći broj zadataka na vežbama. Profesori da bolje pojasne kako se uči teorija i dokazi (definicije). "
+        - Obim
+        - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
+        - Pretesko gradivo za sam pocetak studiranja
 
-    3) Analiza 2: 8
-       - Velika količina gradiva koje je potrebno savladati i nedovoljno jasne literature
-       - Pored analize 1, neophodno je znanje iz linearne algebre i analitičke geometrije.
-       - Obiman kurs, vezbe koje ne prate trzinu ispita,  neadekvatno ispredavana teorija koja se koristi u nastavku studija
-       - Preobiman je i lose se predaje
-       - Tezina gradiva i broj poena koji nosi
-       - Nedovoljno materijala, loš kvalitet vežbi...
-       - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
-       - Preobiman predmet, zadaci na pismenom preopsirni, premqlo vrmena na pismebom ispitu, brutalno ocenjivanje
-       -
+        3) Analiza 2: 8
+        - Velika količina gradiva koje je potrebno savladati i nedovoljno jasne literature
+        - Pored analize 1, neophodno je znanje iz linearne algebre i analitičke geometrije.
+        - Obiman kurs, vezbe koje ne prate trzinu ispita,  neadekvatno ispredavana teorija koja se koristi u nastavku studija
+        - Preobiman je i lose se predaje
+        - Tezina gradiva i broj poena koji nosi
+        - Nedovoljno materijala, loš kvalitet vežbi...
+        - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
+        - Preobiman predmet, zadaci na pismenom preopsirni, premqlo vrmena na pismebom ispitu, brutalno ocenjivanje
 
-    *) Analize 1 i 2: 2
-       - Jer su dvosemestralni i iako postoje kolokvijumi koji zamenjuju pismeni deo, svako ima najviše po tri puta pravo da izađe na njih, što je manje od bilo kog drugog jednosemestralnog ispita
-       - Nepostojanje standarda pri izradi različitih rokova, nepostojanje materijala za pismeni deo (rešenih rokova, zbirka rešenih zadataka itd), nepostojanje standardnih materijala za teorijski deo (usmeni) , nezainteresovani i loši predavači (sa par izuzetaka) , loši asistenti (sa još manje izuzetaka) itd.
+        *) Analize 1 i 2: 2
+        - Jer su dvosemestralni i iako postoje kolokvijumi koji zamenjuju pismeni deo, svako ima najviše po tri puta pravo da izađe na njih, što je manje od bilo kog drugog jednosemestralnog ispita
+        - Nepostojanje standarda pri izradi različitih rokova, nepostojanje materijala za pismeni deo (rešenih rokova, zbirka rešenih zadataka itd), nepostojanje standardnih materijala za teorijski deo (usmeni) , nezainteresovani i loši predavači (sa par izuzetaka) , loši asistenti (sa još manje izuzetaka) itd.
 
-    4) Razvoj softvera: 3
-       - Obimnost samog kursa, kao i veliki broj ispitnih obaveza.
+        4) Razvoj softvera: 3
+        - Obimnost samog kursa, kao i veliki broj ispitnih obaveza.
 
-    5) Geometrija 2: 2
-       - Lična nezainteresovanost za materiju
-       - Zato što je kurs koji je ranije trajao 2 semestra sada sažet ali ne dovoljno da bi postao jednosemestralni predmet. Ima 9 oblasti, gradivo je obimno, zahtevno i poprilično dosadno. Svetla tačka ovog kursa je jedino profesorka koja dopušta polaganje usmenog u delovima. Pismeni je jako težak jer se ne javljaju uvek ideje koje su viđene već je uglavnom akcenat na nečemu novom što jeste u redu ali za veće ocene, ne za 6.
+        5) Geometrija 2: 2
+        - Lična nezainteresovanost za materiju
+        - Zato što je kurs koji je ranije trajao 2 semestra sada sažet ali ne dovoljno da bi postao jednosemestralni predmet. Ima 9 oblasti, gradivo je obimno, zahtevno i poprilično dosadno. Svetla tačka ovog kursa je jedino profesorka koja dopušta polaganje usmenog u delovima. Pismeni je jako težak jer se ne javljaju uvek ideje koje su viđene već je uglavnom akcenat na nečemu novom što jeste u redu ali za veće ocene, ne za 6.
 
-    6) Operativni sistemi: 2
-       - Teorijski deo zahteva jednaku posvecenost na obimu skoro celog gradiva kursa, sto u kombinaciji sa pripremom jos nekih, pored ovog predmeta za neki ispitni rok, znatno otezava stvar
-       - Zbog tezine i kolicine gradiva
+        6) Operativni sistemi: 2
+        - Teorijski deo zahteva jednaku posvecenost na obimu skoro celog gradiva kursa, sto u kombinaciji sa pripremom jos nekih, pored ovog predmeta za neki ispitni rok, znatno otezava stvar
+        - Zbog tezine i kolicine gradiva
 
-    7) Analiza 3: 1
-       - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
+        7) Analiza 3: 1
+        - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
 
-    8) Funkcionalna analiza: 1
+        8) Funkcionalna analiza: 1
 
-    9) Teorija mere i integracije: 1
-       - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
+        9) Teorija mere i integracije: 1
+        - Izmišljanje nemogućih zadataka na pismenim ispitima i preobimnost gradiva koje se traži na usmenom
 
-    10) KIAA: 1
-        - Obimno gradivo, zahtevno ocenjivanje, zahtev za dokazima teorema
+        10) KIAA: 1
+            - Obimno gradivo, zahtevno ocenjivanje, zahtev za dokazima teorema
 
-    11) ORS (Osnovi racunarskih sistema): 1
-        - Obimno gradivo, zahtevno ocenjivanje, pismeni i usmeni ispiti su kao 2 odvojena ispita (nekad), zahtev za dokazima teorema
+        11) Osnovi racunarskih sistema: 1
+            - Obimno gradivo, zahtevno ocenjivanje, pismeni i usmeni ispiti su kao 2 odvojena ispita (nekad), zahtev za dokazima teorema
 
-    12) Geometrija 3: 1
-       - Lična nezainteresovanost za materiju
+        12) Geometrija 3: 1
+        - Lična nezainteresovanost za materiju
 
-    13) Razvoj softvera 2: 1
-        - Profesor odlicno predaje, ali uglavnom na predavanjima ne pokrije celo gradivo koje ce doci na ispitu, a ne postoji adekvatna literatura iz koje bi student mogao samostalno da se pripremi.
+        13) Razvoj softvera 2: 1
+            - Profesor odlicno predaje, ali uglavnom na predavanjima ne pokrije celo gradivo koje ce doci na ispitu, a ne postoji adekvatna literatura iz koje bi student mogao samostalno da se pripremi.
 
-    14) Algoritmi i strukture podataka: 1
-        - Pretežak praktični ispit
+        14) Algoritmi i strukture podataka: 1
+            - Pretežak praktični ispit
 
-    15) RBP: 1
-        - nenad mitic
+        15) RBP: 1
+            - Nenad Mitić
 
-    16) Algebra 1: 1
+        16) Algebra 1: 1
+            - Ispit je bio veoma zahtevan
 
-    17) Verovatnoća i statistika A: 2
-        - Verovatnoca i statistika A. Vucem je pet godina a analizu 1 i 2 sam dao za ukupno cetri. Prodmet je prosto lutrija.
-        - Odnos tezine zadataka na vezbama i rokovima, i sto se cesto na usmenom ispitu ocekuje besprekorno znanje bez obzira na ocenu
+        17) Verovatnoća i statistika A: 2
+            - Verovatnoca i statistika A. Vucem je pet godina a analizu 1 i 2 sam dao za ukupno cetri. Prodmet je prosto lutrija.  -> Da nam daju zadatke za vezbu koji ce biti slicni ispitnim da se mozemo spremiti za ispit i generalno da se dizajniraju zadaci da lice na ono radjeno na vezbama. Subjektivni osecaj ovog predmeta je da se na vezbama uci sta je 2+2 a na ispitu treba dokazati Rimanovu hipotezu.
+            - Odnos tezine zadataka na vezbama i rokovima, i sto se cesto na usmenom ispitu ocekuje besprekorno znanje bez obzira na ocenu
 
-    18) Verovatnoća i statistika B: 1
-        -  Za VIS odnos tezine zadataka na vezbama i rokovima, i sto se cesto na usmenom ispitu ocekuje besprekorno znanje bez obzira na ocenu
+        18) Verovatnoća i statistika B: 1
+            - Odnos tezine zadataka na vezbama i rokovima, i sto se cesto na usmenom ispitu ocekuje besprekorno znanje bez obzira na ocenu
+
+
+////// NOTE: Ove stvari iznad ne treba da se citaju sve logicno, samo da se ulepsaju u LateX-u pa nek stoje dok mi ispricamo neke najzanimljivije odgovore
+////// Nisam stavljao sve predloge za poboljsanje kursa kao sto sam originalno planirao jer stvanro postaje previse teksta
+
+
+    + Zaključak za sekciju Lični utisak:
+        - Najteži predmeti studentima su Verovatnoća i Analize 1 i 2, najčešće zbog preobimnog ili previše kompleksnog gradiva.
+        - Ubedljivo najviše predlagano rešenje za olakšanje polaganja nekog kursa je deljenje obaveza na više delova uvođenjem predispitnih obaveza,
+          a nakon toga sledi smanjenje obima gradiva.
+        - Neki ispitanici vide rešenje u promeni profesora: na Verovatnoći (3) i na RBP (1)
+        - Naveden je i nedostatak rešenih rokova ispita od strane asistenata, kao i nedovoljno povratnih informacija od strane profesora kao otežavajuće okolnosti na kursevima.
