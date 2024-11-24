@@ -1,5 +1,5 @@
 **** Opšte informacije o ispitanicima ****
-   + Ukupno odgovora: 60
+   + Ukupno odgovora: 61
 
    + Pol: 50/50
 
